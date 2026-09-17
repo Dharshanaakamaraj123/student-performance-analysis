@@ -35,3 +35,16 @@ student-performance-analysis/
 ├── README.md
 ├── students.csv
 └── analysis.py
+
+## 📊 Results
+
+The analysis calculates the average marks of each student across Python, SQL, Mathematics, and English.
+
+The project also identifies the student with the highest average score.
+
+### 💡 Key Learning
+
+- Learned how to read CSV data using Pandas
+- Learned how to calculate averages
+- Learned how to work with tabular data
+- Learned basic data analysis using Python
